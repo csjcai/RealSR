@@ -1,4 +1,4 @@
-# RealSR
+# Toward Real-World Single Image Super-Resolution (RealSR)
 
 
 ### Dataset
