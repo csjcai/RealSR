@@ -1,6 +1,7 @@
 # RealSR
 
+
 ## Dataset
 
 
-## Training and Testing Code
+## Code (pretrained-model) for training and testing
