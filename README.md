@@ -5,7 +5,7 @@
 
 
 ## Code 
-### Caffe: Pretrained-model, training code, and testing code
+### Caffe: pretrained-model, training code, and testing code
 
 
 ### Alignment code
