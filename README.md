@@ -3,6 +3,8 @@
 
 ### Dataset
 
+Captured device: (Canon 5D3 and Nikon D810) +  (24∼105mm, f/4.0 zoom lens)
+
 #### [Version 1](https://drive.google.com/open?id=1KklHQTJNY7cFbyiQd7Ezi6qmyHILUyAC): 234 scenes, as reported in the original paper (HR have the same resolution as LR).
 
 
