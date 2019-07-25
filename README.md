@@ -9,7 +9,8 @@
 #### [Version 2](https://drive.google.com/open?id=1J5SJGUqL45sLb9qVtKEYbwPp10KCl9sY): 500 scenes, the extended version (HR have the same resolution as LR).
 
 
-#### Version 3
+#### Version 3 :500 scenes, the extended version (HR and LR have different resolution).
+
 
 
 
