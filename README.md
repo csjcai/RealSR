@@ -3,7 +3,7 @@
 
 ### Dataset
 
-#### Version 1 (ICCV2019 Paper)
+#### Version 1
 
 
 #### Version 2
