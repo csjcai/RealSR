@@ -20,7 +20,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 ### Code:
 #### Caffe: pretrained-model, training code, and testing code
-1. Download the new layers in folder [Layer](https://github.com/csjcai/RealSR/tree/master/Layer)
+1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
 2. Modify the caffe.prototxt
 3. Compile Caffe ([installation](https://caffe.berkeleyvision.org/installation.html))
 4. run *solver.prototxt to train the network
@@ -29,7 +29,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 #### Alignment code:
 1. Put your own image pairs in the folder and modify the path
-2. run Demo.m in folder [Alignment](https://github.com/csjcai/RealSR/tree/master/Alignment)
+2. run Demo.m in folder ['Alignment'](https://github.com/csjcai/RealSR/tree/master/Alignment)
 3. Central region crop
 
 
