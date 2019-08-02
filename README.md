@@ -1,7 +1,7 @@
 # Toward Real-World Single Image Super-Resolution (RealSR)
 
 
-### Dataset
+### Dataset:
 
 Captured device: (Canon 5D3 and Nikon D810) +  (24∼105mm, f/4.0 zoom lens)
 
@@ -18,7 +18,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 
 
-### Code 
+### Code:
 #### Caffe: pretrained-model, training code, and testing code
 1. Download the new layers in folder [Layer](https://github.com/csjcai/RealSR/tree/master/Layer)
 2. Modify the caffe.prototxt
@@ -27,7 +27,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 
 
-#### Alignment code
+#### Alignment code:
 
 
 
