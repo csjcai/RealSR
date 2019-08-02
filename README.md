@@ -23,8 +23,13 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
 2. Modify the caffe.prototxt
 3. Compile Caffe ([installation](https://caffe.berkeleyvision.org/installation.html))
+
+-- Training --
 4. Generate the training data
 5. run *solver.prototxt to train the network
+
+-- Testing --
+6. run 
 
 
 
