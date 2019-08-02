@@ -34,6 +34,23 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 ### Citation
 If you find this work useful for your research, please cite:
 
+```
+@inproceedings{cai2019toward,
+  title={Toward real-world single image super-resolution: A new benchmark and a new model},
+  author={Cai, Jianrui and Zeng, Hui and Yong, Hongwei and Cao, Zisheng and Zhang, Lei},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  year={2019}
+}
+```
+
+```
+@inproceedings{cai2019ntire,
+  title={Ntire 2019 challenge on real image super-resolution: Methods and results},
+  author={Cai, Jianrui and Gu, Shuhang and Timofte, Radu and Zhang, Lei},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
+  year={2019}
+}
+```
 
 ### Contact
 Please contact me if there is any question (Jianrui CAI: csjcai@comp.polyu.edu.hk).
