@@ -22,7 +22,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 #### Caffe: pretrained-model, training code, and testing code
 1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
 2. Modify the caffe.prototxt
-3. Compile Caffe ([installation](https://caffe.berkeleyvision.org/installation.html))
+3. Compile Caffe and Matcaffe ([installation](https://caffe.berkeleyvision.org/installation.html))
 
 -- Training --
 
