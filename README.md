@@ -29,7 +29,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 5. run *solver.prototxt to train the network
 
 -- Testing --
-6. run 
+ 6. run 
 
 
 
