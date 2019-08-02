@@ -28,6 +28,9 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 
 #### Alignment code:
+1. Put your own image pairs in the folder and add the path
+2. run Demo.m in folder [Alignment](https://github.com/csjcai/RealSR/tree/master/Alignment)
+3. Center crop & save
 
 
 
