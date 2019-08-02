@@ -20,6 +20,8 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 ### Code 
 #### Caffe: pretrained-model, training code, and testing code
+1. download the new layers in 
+
 
 
 #### Alignment code
