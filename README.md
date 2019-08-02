@@ -42,7 +42,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 
 
-### Citation
+### Citation:
 If you find this work useful for your research, please cite:
 
 ```
@@ -63,5 +63,5 @@ If you find this work useful for your research, please cite:
 }
 ```
 
-### Contact
+### Contact:
 Please contact me if there is any question (Jianrui CAI: csjcai@comp.polyu.edu.hk).
