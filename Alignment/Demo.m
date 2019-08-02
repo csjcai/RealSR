@@ -10,7 +10,7 @@ for i = 1:2:size(filepaths)
 
     s = 2;                                             % s = len1/len2, len1&lend2 are the focal length of captured image (len1>len2)
     r = 1 - 1/s;                                       % Scale
-    I2_zoom =w arpImg(I2,[-r,0,0,0]);
+    I2_zoom = warpImg(I2,[-r,0,0,0]);
     
     tau0 = zeros(6,1);
     iter = 3;                                          % number of iterations
