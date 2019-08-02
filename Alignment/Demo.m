@@ -19,7 +19,7 @@ for i = 1:2:size(filepaths)
     [I2_t_l] = luminance_transfer(I1,I2_t);            % transfer luminance
     [I2_t_c] = color_transfer(I1,I2_t);                % transfer color
 
-    % where you aim to save the image
+    % where you save the image
     imwrite(I1, ['./.', filepaths(i).name])            
     imwrite(I2_t_c, ['./.', filepaths(i+1).name])
 end
