@@ -1,5 +1,18 @@
 ### Kernel Prediction Layer
 
+#### caffe.prototxt
+```
+optional PixelConvParameter pixelconvolution_param = 179;
+```
+
+```
+message PixelConvParameter {
+  optional bool is_pad = 1 [default = true];
+  optional bool is_bpk = 2 [default = true];
+  optional bool is_bpd = 3 [default = true];
+}
+```
+
 #### Parameter
 1. is_pad: whether to pad the image or not
 2. is_bpk: whether to cacluate the gradient or update the weight or not
