@@ -1,7 +1,7 @@
 close all; clc; clear;
 
 addpath(genpath('./.'));
-folder  = './.';  % Put the image pairs in this folder
+folder  = './.';                                                       % Put the image pairs in this folder
 filepaths = dir(fullfile(folder, '*.png'));
 
 for i = 1:2:size(filepaths)
