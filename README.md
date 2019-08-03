@@ -37,7 +37,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 #### Alignment code:
 1. Put your own image pairs in the folder and modify the path
-2. run Demo.m in folder ['Alignment'](https://github.com/csjcai/RealSR/tree/master/Alignment)
+2. run [Demo.m](https://github.com/csjcai/RealSR/blob/master/Alignment/Demo.m) in folder ['Alignment'](https://github.com/csjcai/RealSR/tree/master/Alignment)
 3. Central region crop
 
 
