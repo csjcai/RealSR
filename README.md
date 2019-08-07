@@ -47,7 +47,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 -- Testing --
 
-6. run Test.m 
+6. run [Test.m](https://github.com/csjcai/RealSR/blob/master/Test/Test.m) 
 
 
 
