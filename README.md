@@ -15,7 +15,6 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 | Methods       | PSNR          | SSIM  |
 | ------------- |:-------------:| -----:|
 |               | 2|   3|   4   |   2|   3|   4   | 
-| ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
