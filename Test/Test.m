@@ -1,7 +1,4 @@
-clear;
-clc;
-close all;
-warning off;
+clear; clc; close all; warning off;
 addpath(genpath('./.'));
 addpath(genpath('/home/./caffe/')) ;
 caffe.set_mode_gpu();
