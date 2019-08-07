@@ -32,7 +32,8 @@ for q = 1:2
         LR_Ycbcr = im2double(rgb2ycbcr(LR));
         LR_Y = im2single(LR_Ycbcr(:, :, 1));
         
-        size_img = size(LR_Y);
+        % The testing image is too large and will cause out-of-memory issue.
+        size_img = size(LR_Y);           
         if ((size_img(1) > 1200) && (size_img(2) > 1200))
             size_patch = [1200 1200];
             size_skip = [800 800];
