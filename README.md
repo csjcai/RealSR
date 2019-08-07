@@ -22,7 +22,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
  |LP-KPN   |   |    33.49    |    30.60    |    29.05    |    |    0.917    |    0.865    |    0.834    | 
                         
 
-#### [Version 3](https://drive.google.com/open?id=17ZMjo-zwFouxnm_aFM6CUHBwgRrLZqIM): 559 scenes(459 scenes for training & 100 scenes for testing), the extended version (HR and LR have different resolution).
+#### [Version 3](https://drive.google.com/open?id=17ZMjo-zwFouxnm_aFM6CUHBwgRrLZqIM): 559 scenes (459 scenes for training & 100 scenes for testing), the extended version (HR and LR have different resolution).
 
 
 
