@@ -7,10 +7,10 @@ momentum: 0.9
 momentum2: 0.999
 lr_policy: "fixed"
 
-max_iter: 1000000
+max_iter: 300000
 
-display: 1000
-snapshot: 1000
+display: 5000
+snapshot: 5000
 snapshot_prefix: "scripts/*/"
 solver_mode: GPU
 type: "Adam"
