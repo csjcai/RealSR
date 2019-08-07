@@ -1,0 +1,16 @@
+# The train/test net protocol buffer definition
+net: "scripts/*/LP-KPN.prototxt"
+
+base_lr: 0.0001
+weight_decay: 0.0001
+momentum: 0.9
+momentum2: 0.999
+lr_policy: "fixed"
+
+max_iter: 1000000
+
+display: 1000
+snapshot: 1000
+snapshot_prefix: "scripts/*/"
+solver_mode: GPU
+type: "Adam"
