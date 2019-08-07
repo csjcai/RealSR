@@ -15,7 +15,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 | Method     |      PSNR      |      SSIM     |
 | ---------- | :-----------:  | :-----------: |
-|            |                |               |
+|            |  2 |  3| 4|              |               |
 
 
 
