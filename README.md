@@ -10,7 +10,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 #### [Version 1](https://drive.google.com/open?id=1gKnm9BdgyqISCTDAbGbpVitT-QII_unw): 234 scenes, as reported in the original paper (HR have the same resolution as LR).
 
 
-#### [Version 2](https://drive.google.com/open?id=1dEBRo_1HH6Yk9zrchEg_JTRi-Uhmd-sj): the extended version, 559 scenes (459 scenes for training & 100 for testing), HR have the same resolution as LR.
+#### [Version 2](https://drive.google.com/open?id=1dEBRo_1HH6Yk9zrchEg_JTRi-Uhmd-sj): 559 scenes (459 scenes for training & 100 for testing), the extended version (HR have the same resolution as LR).
 
 
  |Methods |PSNR|      2      |      3      |      4      |SSIM|      2      |      3      |      4      |  
@@ -22,7 +22,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
  |LP-KPN   |   |    33.49    |    30.60    |    29.05    |    |    0.917    |    0.865    |    0.834    | 
                         
 
-#### [Version 3](https://drive.google.com/open?id=17ZMjo-zwFouxnm_aFM6CUHBwgRrLZqIM): the extended version, 559 scenes(459 scenes for training & 100 for testing), HR and LR have different resolution.
+#### [Version 3](https://drive.google.com/open?id=17ZMjo-zwFouxnm_aFM6CUHBwgRrLZqIM): 559 scenes(459 scenes for training & 100 for testing), the extended version (HR and LR have different resolution).
 
 
 
