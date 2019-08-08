@@ -50,6 +50,10 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 3. Central region crop
 
 
+### Relevant Projects
+- [Zoom to Learn, Learn to Zoom](https://github.com/ceciliavision/zoom-learn-zoom)
+- [Camera Lens Super-Resolution](https://github.com/ngchc/CameraSR)
+
 
 ### Citation:
 If you find this work useful for your research, please cite:
