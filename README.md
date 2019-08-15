@@ -36,7 +36,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 -- Training --
 
 4. Generate the training data
-5. run *solver.prototxt to train the network
+5. run [*solver.prototxt](https://github.com/csjcai/RealSR/blob/master/Train/LP-KPN_solver.prototxt) to train the network
 
 -- Testing --
 
