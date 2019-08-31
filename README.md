@@ -35,7 +35,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 The above provided models (for quantitative metrics and visual quality) are both trained with the loss ratio in 1:1:1. 
 We select different models at different epochs for different purposes.
 
-#### Caffe: training code, and testing code
+#### Caffe: training code & testing code
 1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
 2. Modify the caffe.prototxt
 3. Compile Caffe and Matcaffe ([installation](https://caffe.berkeleyvision.org/installation.html))
