@@ -28,7 +28,12 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 
 ### Code:
-#### Caffe: [pretrained-model](https://github.com/csjcai/RealSR/tree/master/Test/Models), training code, and testing code
+#### Pre-train Caffe model
+1. [Models for PSNR/SSIM](https://github.com/csjcai/RealSR/tree/master/Test/Models)
+2. [Models for Visualization](https://github.com/csjcai/RealSR/tree/master/Test/Models4Visualize)
+
+
+#### Caffe: training code, and testing code
 1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
 2. Modify the caffe.prototxt
 3. Compile Caffe and Matcaffe ([installation](https://caffe.berkeleyvision.org/installation.html))
