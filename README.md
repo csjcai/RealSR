@@ -34,7 +34,6 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 Note that the provided models (for quantitative metrics and visual quality) are both trained with the loss ratio at 1:1:1. We selecte the models at different epoches for different purposes. Indeed, we founnd that if we set the loss ratio at 16:4:1 would further improve the visual quality.
 
-
 #### Caffe: training code, and testing code
 1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
 2. Modify the caffe.prototxt
