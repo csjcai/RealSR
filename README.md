@@ -32,7 +32,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 1. [Models for PSNR/SSIM](https://github.com/csjcai/RealSR/tree/master/Test/Models)
 2. [Models for Visualization](https://github.com/csjcai/RealSR/tree/master/Test/Models4Visualize)
 
-Note that the provided models (for quantitative metrics and visual quality) are both trained with the loss ratio in 1:1:1. We selecte the models at different epoches for different purposes. Indeed, we founnd that if we set the loss ratio to 16:4:1 would further improve the visual quality.
+Note that the provided models (for quantitative metrics and visual quality) are both trained with the loss ratio in 1:1:1. We selecte the models at different epoches for different purposes. Indeed, we found that if we set the loss ratio to 16:4:1 would further improve the visual quality.
 
 #### Caffe: training code, and testing code
 1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
