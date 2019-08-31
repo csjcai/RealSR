@@ -33,7 +33,6 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 2. [Models for Visualization](https://github.com/csjcai/RealSR/tree/master/Test/Models4Visualize)
 
 Note that the provided models (for quantitative metrics and visual quality) are both trained with the loss ratio in 1:1:1. 
-
 We selecte the models at different epoches for different purposes. we found that if we set the loss ratio to 16:4:1, this method could further improve the visual quality.
 
 #### Caffe: training code, and testing code
@@ -56,6 +55,12 @@ We selecte the models at different epoches for different purposes. we found that
 1. Put your own image pairs in the folder and modify the path
 2. run [Demo.m](https://github.com/csjcai/RealSR/blob/master/Alignment/Demo.m) in folder ['Alignment'](https://github.com/csjcai/RealSR/tree/master/Alignment)
 3. Central region crop
+
+Pipeline:
+(1) coarse align the image pairs;
+(2) central crop the image pairs;
+(3) finer align the cropped image pairs;
+(4) discard those misaligned image pairs.
 
 
 ### Citation:
