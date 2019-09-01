@@ -27,7 +27,8 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
  |Methods       |PSNR|      4      |SSIM|      4      |  
  |--------------|----|:-----------:|----|:-----------:|
- |Baseline (Our)|    |   28.7145   |    |    0.8214   |
+ |Bicubic       |    |   27.2378   |    |    0.7643   |
+ |Baseline (Our)|    |   28.5145   |    |    0.8124   |
 
 
 ### Code:
