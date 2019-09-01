@@ -28,7 +28,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 
 
 ### Code:
-#### Pre-train Caffe model
+#### Model: Pretrain Caffe models
 1. [Models for PSNR/SSIM](https://github.com/csjcai/RealSR/tree/master/Test/Models)
 2. [Models for Visualization](https://github.com/csjcai/RealSR/tree/master/Test/Models4Visualize)
 
