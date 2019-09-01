@@ -30,7 +30,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
  |Bicubic       |    |   27.2378   |    |    0.7643   |
  |Baseline (Our)|    |   28.5145   |    |    0.8124   |
 
-![image](https://github.com/csjcai/RealSR/blob/master/Sample.pdf)
+![image](https://github.com/csjcai/RealSR/blob/master/Sample1.png)
 
 ### Code:
 #### Model: Pretrained Caffe models
