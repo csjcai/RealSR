@@ -23,9 +23,11 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
                         
 
 #### [Version 3](https://drive.google.com/open?id=17ZMjo-zwFouxnm_aFM6CUHBwgRrLZqIM): 559 scenes (459 scenes for training & 100 scenes for testing), the extended version (HR and LR have different resolution).
- |Methods     |PSNR|      4      |SSIM|      4      |  
- |------------|----|:-----------:|----|:-----------:|
- |Our Baseline|    |   28.7145   |    |    0.8214   |
+##### Detail: Trained on RGB domain, tested on Y channel
+
+ |Methods       |PSNR|      4      |SSIM|      4      |  
+ |--------------|----|:-----------:|----|:-----------:|
+ |Baseline (Our)|    |   28.7145   |    |    0.8214   |
 
 
 ### Code:
