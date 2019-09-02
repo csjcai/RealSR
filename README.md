@@ -3,15 +3,12 @@
 
 ### Dataset:
 
-Captured device: (Canon 5D3 and Nikon D810) +  (24∼105mm, f/4.0 zoom lens)
-
-A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conjunction with CVPR 2019)](http://www.vision.ee.ethz.ch/ntire19/).
+#### Captured device: (Canon 5D3 and Nikon D810) +  (24∼105mm, f/4.0 zoom lens)<br>
+> A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conjunction with CVPR 2019)](http://www.vision.ee.ethz.ch/ntire19/).
 
 #### [Version 1](https://drive.google.com/open?id=1gKnm9BdgyqISCTDAbGbpVitT-QII_unw): 234 scenes, as reported in [the original paper](https://csjcai.github.io/papers/RealSR.pdf) (HR have the same resolution as LR).
 
-
 #### [Version 2](https://drive.google.com/open?id=1dEBRo_1HH6Yk9zrchEg_JTRi-Uhmd-sj): 559 scenes (459 scenes for training & 100 scenes for testing), the extended version (HR have the same resolution as LR).
-
 
  |Methods    |PSNR|      2      |      3      |      4      |SSIM|      2      |      3      |      4      |  
  |-----------|----|:-----------:|:-----------:|:-----------:|----|:-----------:|:-----------:|:-----------:|
@@ -64,7 +61,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 2. run [Demo.m](https://github.com/csjcai/RealSR/blob/master/Alignment/Demo.m) in folder ['Alignment'](https://github.com/csjcai/RealSR/tree/master/Alignment)
 3. Central region crop
 
-Pipeline:<br>
+#####Pipeline:<br>
 >(1) coarse align the image pairs;<br>
 >(2) central crop the image pairs;<br>
 >(3) finer align the cropped image pairs;<br>
