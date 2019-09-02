@@ -32,7 +32,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
  |Bicubic       |    |   27.2378   |    |    0.7643   |
  |Baseline (Our)|    |   28.7012   |    |    0.8216   |
 
-![image](https://github.com/csjcai/RealSR/blob/master/Sample1.png)
+<div align=center>![image](https://github.com/csjcai/RealSR/blob/master/Sample1.png)
 ![image](https://github.com/csjcai/RealSR/blob/master/Sample2.png)
 
 ### Code:
