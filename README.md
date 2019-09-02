@@ -61,7 +61,7 @@
 2. run [Demo.m](https://github.com/csjcai/RealSR/blob/master/Alignment/Demo.m) in folder ['Alignment'](https://github.com/csjcai/RealSR/tree/master/Alignment)
 3. Central region crop
 
-#####Pipeline:<br>
+##### Pipeline:<br>
 >(1) coarse align the image pairs;<br>
 >(2) central crop the image pairs;<br>
 >(3) finer align the cropped image pairs;<br>
