@@ -31,7 +31,7 @@
 
 <div align=center>
         <img src="https://github.com/csjcai/RealSR/blob/master/Sample1.png" />
-        <img2 src="https://github.com/csjcai/RealSR/blob/master/Sample2.png" />
+        <img src="https://github.com/csjcai/RealSR/blob/master/Sample2.png" />
 </div>
 
 ### Code:
