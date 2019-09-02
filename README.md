@@ -28,6 +28,7 @@
  |Bicubic       |    |   27.2378   |    |    0.7643   |
  |Baseline (Our)|    |   28.7012   |    |    0.8216   |
 
+> Visualization (zooming factor: 4)
 
 <div align="center">
         <img src="https://github.com/csjcai/RealSR/blob/master/Sample1.png"/>
