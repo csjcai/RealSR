@@ -23,8 +23,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
                         
 
 #### [Version 3](https://drive.google.com/open?id=17ZMjo-zwFouxnm_aFM6CUHBwgRrLZqIM): 559 scenes (459 scenes for training & 100 scenes for testing), the extended version (HR and LR have different resolution).
-#### Detail for training & testing: Trained on the RGB images and tested on Y channel (images from Version 3). 
-
+##### Detail for training & testing: Trained on the RGB images and tested on Y channel (images from Version 3). <br>
 ##### More results can be downloaded [here](https://drive.google.com/open?id=1D6opSY-KmXRLSRgDb5LhTfKcOGkinsYd).
 
  |Methods       |PSNR|      4      |SSIM|      4      |  
@@ -32,9 +31,8 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
  |Bicubic       |    |   27.2378   |    |    0.7643   |
  |Baseline (Our)|    |   28.7012   |    |    0.8216   |
 
-<p align="center">
-![image](https://github.com/csjcai/RealSR/blob/master/Sample1.png) 
- </p> <br>
+
+![image](https://github.com/csjcai/RealSR/blob/master/Sample1.png) <br>
 ![image](https://github.com/csjcai/RealSR/blob/master/Sample2.png)
 
 ### Code:
