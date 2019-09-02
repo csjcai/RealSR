@@ -29,6 +29,10 @@
  |Baseline (Our)|    |   28.7012   |    |    0.8216   |
 
 
+<div align=center>
+        <img src="https://github.com/csjcai/RealSR/blob/master/Sample1.png" />
+</div>
+
 ![image](https://github.com/csjcai/RealSR/blob/master/Sample1.png) <br>
 ![image](https://github.com/csjcai/RealSR/blob/master/Sample2.png)
 
