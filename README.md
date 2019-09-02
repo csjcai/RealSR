@@ -32,7 +32,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
  |Bicubic       |    |   27.2378   |    |    0.7643   |
  |Baseline (Our)|    |   28.7012   |    |    0.8216   |
 
-<div ![image](https://github.com/csjcai/RealSR/blob/master/Sample1.png) align=center/> <br>
+![image](https://github.com/csjcai/RealSR/blob/master/Sample1.png) <br>
 ![image](https://github.com/csjcai/RealSR/blob/master/Sample2.png)
 
 ### Code:
@@ -40,7 +40,7 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 1. [Models for PSNR/SSIM](https://github.com/csjcai/RealSR/tree/master/Test/Models)
 2. [Models for Visualization](https://github.com/csjcai/RealSR/tree/master/Test/Models4Visualize)
 
-The above provided models (for quantitative metrics and visual quality) are both trained with the loss ratio in 1:1:1. 
+The above provided models (for quantitative metrics and visual quality) are both trained with the loss ratio in 1:1:1. <br>
 We select different models at different epochs for different purposes.
 
 #### Caffe: training code & testing code
