@@ -23,7 +23,8 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
                         
 
 #### [Version 3](https://drive.google.com/open?id=17ZMjo-zwFouxnm_aFM6CUHBwgRrLZqIM): 559 scenes (459 scenes for training & 100 scenes for testing), the extended version (HR and LR have different resolution).
-> Detail for training & testing: Trained on the RGB images and tested on Y channel (images from Version 3). More results can be downloaded [here](https://drive.google.com/open?id=1D6opSY-KmXRLSRgDb5LhTfKcOGkinsYd).
+> Detail for training & testing: Trained on the RGB images and tested on Y channel (images from Version 3). <br>
+> More results can be downloaded [here](https://drive.google.com/open?id=1D6opSY-KmXRLSRgDb5LhTfKcOGkinsYd).
 
  |Methods       |PSNR|      4      |SSIM|      4      |  
  |--------------|----|:-----------:|----|:-----------:|
@@ -39,8 +40,8 @@ A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conju
 1. [Models for PSNR/SSIM](https://github.com/csjcai/RealSR/tree/master/Test/Models)
 2. [Models for Visualization](https://github.com/csjcai/RealSR/tree/master/Test/Models4Visualize)
 
-The above provided models (for quantitative metrics and visual quality) are both trained with the loss ratio in 1:1:1. <br>
-We select different models at different epochs for different purposes.
+> The above provided models (for quantitative metrics and visual quality) are both trained with the loss ratio in 1:1:1. <br>
+> We select different models at different epochs for different purposes.
 
 #### Caffe: training code & testing code
 1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
@@ -63,11 +64,11 @@ We select different models at different epochs for different purposes.
 2. run [Demo.m](https://github.com/csjcai/RealSR/blob/master/Alignment/Demo.m) in folder ['Alignment'](https://github.com/csjcai/RealSR/tree/master/Alignment)
 3. Central region crop
 
-Pipeline:
-(1) coarse align the image pairs;
-(2) central crop the image pairs;
-(3) finer align the cropped image pairs;
-(4) discard those misaligned image pairs.
+Pipeline:<br>
+>(1) coarse align the image pairs;<br>
+>(2) central crop the image pairs;<br>
+>(3) finer align the cropped image pairs;<br>
+>(4) discard those misaligned image pairs.
 
 
 ### Citation:
