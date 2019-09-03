@@ -22,10 +22,10 @@
 #### [Version 3](https://drive.google.com/open?id=17ZMjo-zwFouxnm_aFM6CUHBwgRrLZqIM): 559 scenes (459 scenes for training & 100 scenes for testing), the extended version (HR and LR have different resolution).
 > Detail for training & testing: Trained on the RGB domain and tested on Y channel (images from Version 3). 
 
- |Methods       |PSNR|      4      |SSIM|      4      |  
- |--------------|----|:-----------:|----|:-----------:|
- |Bicubic       |    |   27.2378   |    |    0.7643   |
- |Baseline (Our)|    |   28.6508   |    |    0.8206   |
+ |Methods       |PSNR|      2      |      3      |      4      |SSIM|      2      |      3      |      4      |  
+ |--------------|----|:-----------:|:-----------:|:-----------:|----|:-----------:|:-----------:|:-----------:|
+ |Bicubic       |    |      -      |    28.6284  |   27.2378   |    |      -      |    0.8088   |    0.7643   |
+ |Baseline (Our)|    |      -      |    30.6003  |   28.6508   |    |      -      |    0.8630   |    0.8206   |
 
 > Visualization (zooming factor: 4) <br>
 > More results can be downloaded [here](https://drive.google.com/open?id=1D6opSY-KmXRLSRgDb5LhTfKcOGkinsYd).
