@@ -23,10 +23,12 @@
 > Detail for training & testing: Trained on the RGB domain and tested on Y channel (images from Version 3). 
 
 <div align="center">
+ 
  |Methods       |PSNR|      4      |SSIM|      4      |  
  |--------------|----|:-----------:|----|:-----------:|
  |Bicubic       |    |   27.2378   |    |    0.7643   |
  |Baseline (Our)|    |   28.7012   |    |    0.8216   |
+ 
 </div>
 
 > Visualization (zooming factor: 4) <br>
