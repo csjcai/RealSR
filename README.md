@@ -25,7 +25,7 @@
  |Methods       |PSNR|      4      |SSIM|      4      |  
  |--------------|----|:-----------:|----|:-----------:|
  |Bicubic       |    |   27.2378   |    |    0.7643   |
- |Baseline (Our)|    |   28.7012   |    |    0.8216   |
+ |Baseline (Our)|    |   28.6508   |    |    0.8206   |
 
 > Visualization (zooming factor: 4) <br>
 > More results can be downloaded [here](https://drive.google.com/open?id=1D6opSY-KmXRLSRgDb5LhTfKcOGkinsYd).
