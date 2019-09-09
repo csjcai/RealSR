@@ -1,4 +1,4 @@
-name: "SRResNet+RealSR"
+name: "LP-KPN+RealSR"
 layer {
   name: "data"
   type: "HDF5Data"
