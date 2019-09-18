@@ -45,7 +45,7 @@
 
 #### Caffe: training code & testing code
 1. Download the new layers in folder ['Layer'](https://github.com/csjcai/RealSR/tree/master/Layer)
-2. Modify the caffe.prototxt
+2. Modify the caffe.proto (Path: caffe/src/caffe/proto/)
 3. Compile Caffe and Matcaffe ([installation](https://caffe.berkeleyvision.org/installation.html))
 
 -- Training --
