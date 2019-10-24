@@ -1,6 +1,6 @@
 ### Laplacian pyramid decompositon
 
-#### modify the caffe.prototxt
+#### modify the caffe.proto
 ```
 optional LapPyrParameter laplacianpyramid_param = 182;
 ```
