@@ -1,6 +1,6 @@
 ### Shuffle (sub-pixel)
 
-#### modify the caffe.prototxt
+#### modify the caffe.proto
 ```
   optional DtowParameter dtow_param = 998;
 ```
