@@ -1,6 +1,6 @@
 ### Kernel Prediction Layer
 
-#### modify the caffe.prototxt
+#### modify the caffe.proto
 ```
 optional PixelConvParameter pixelconvolution_param = 179;
 ```
