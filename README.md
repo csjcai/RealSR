@@ -1,9 +1,9 @@
 # [Toward Real-World Single Image Super-Resolution (RealSR)](https://csjcai.github.io/papers/RealSR.pdf)
 
 
-### Dataset 
+### Dataset:
 
-#### Raw images -> [HERE](https://drive.google.com/file/d/1Iqx3AbUlLjR_JglsQIq9y9BEcrNLcOCU/view)):
+#### Raw images can be downloaded [HERE](https://drive.google.com/file/d/1Iqx3AbUlLjR_JglsQIq9y9BEcrNLcOCU/view)
 
 #### Captured device: (Canon 5D3 and Nikon D810) +  (24∼105mm, f/4.0 zoom lens)<br>
 > A part of this dataset was used in the RealSR challenge in [NTIRE 2019 (in conjunction with CVPR 2019)](http://www.vision.ee.ethz.ch/ntire19/).
