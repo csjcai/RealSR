@@ -6,7 +6,7 @@
 #### Raw images can be downloaded [HERE](https://drive.google.com/file/d/1Iqx3AbUlLjR_JglsQIq9y9BEcrNLcOCU/view)
 
 #### Captured device: (Canon 5D3 and Nikon D810) +  (24∼105mm, f/4.0 zoom lens)
-> A part of this dataset was used in the RealSR [challenge](https://drive.google.com/file/d/1ngJERYGcc4cJFX6MDWe6a0HsTxyelchn/view?usp=sharing) in [NTIRE 2019 (in conjunction with CVPR 2019)](http://www.vision.ee.ethz.ch/ntire19/).
+> A part of this dataset was used in the [RealSR challenge](https://drive.google.com/file/d/1ngJERYGcc4cJFX6MDWe6a0HsTxyelchn/view?usp=sharing) in [NTIRE 2019 (in conjunction with CVPR 2019)](http://www.vision.ee.ethz.ch/ntire19/).
 
 #### Version 1: 234 scenes (204 scenes for training & 30 scenes for testing), as reported in [the original paper](https://csjcai.github.io/papers/RealSR.pdf) (HR has the same resolution as LR). 
 Link: [Google Drive](https://drive.google.com/open?id=1gKnm9BdgyqISCTDAbGbpVitT-QII_unw), [Baidu Drive](https://pan.baidu.com/s/18OrLbVMg3dCGKUlNrN9uWQ) (code: n77c)
